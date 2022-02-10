@@ -1,0 +1,12 @@
+﻿@page "{RestaurantId:int}"
+@model ASPNETCore.Pages.Restaurant.DeleteModel
+@{
+}
+<div class="alert alert-danger">
+    Are You sure that you want to delete @Model.Restaurant.Name
+</div>
+<form method="post">
+    <button class="btn btn-success" type="submit">Delete</button>
+    <a class="btn btn-primary" asp-page="./List">Cancel</a>
+
+</form>

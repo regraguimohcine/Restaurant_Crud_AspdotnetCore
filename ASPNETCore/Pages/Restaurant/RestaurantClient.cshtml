@@ -1,0 +1,29 @@
+﻿@page
+@model ASPNETCore.Pages.Restaurant.RestaurantClientModel
+@{
+}
+
+<table class="table" id="restaurants"></table>
+@section Scripts{
+        <script src="~\node_modules\datatables.net\js\jquery.dataTables.js"></script>
+        <script src="~\node_modules\datatables.net-bs\js\dataTables.bootstrap.js"></script>
+        <Link src="~\node_modules\datatables.net-bs\css\dataTables.bootstrap.min.css"/>
+        <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs/dt-1.11.4/datatables.min.css"/>
+        <script type="text/javascript" src="https://cdn.datatables.net/v/bs/dt-1.11.4/datatables.min.js"></script>
+        <script>
+        $(function(){
+            $.ajax("/api/Restaurants/",{method:"GET"}).then(function(responce){
+                $('#restaurants').dataTable({
+                    data:responce,
+                    columns:[
+                        {"data":"id"},
+                        {"data":"name"},
+                        {"data":"description"},
+                        {"data":"location"},
+                        {"data":"type"}
+                    ]
+                    });
+            });
+        });
+        </script>
+}

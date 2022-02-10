@@ -1,0 +1,49 @@
+﻿@page
+@model ASPNETCore.Pages.Restaurant.ListModel
+@{
+    ViewData["Title"] = "List of Restaurant";
+}
+<center>
+<h3>@Model.NameOfPage</h3></br>
+<p>@Model.NameOfApp</p></br>
+
+<form method="get">
+    <label for="Search">Search:</label>
+    <input id="Search" Type="Text" name="Search"></input>
+    <Button type="submit">Save</Button>
+</form>
+</br>
+<a asp-page="./Edit" >Add</a>
+<table class="table">
+        <tr>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Location</th>
+            <th>Type</th>
+            <th>Actions</th>
+        </tr>
+    @foreach (var r in Model.Restaurants)
+    {
+
+            <tr>
+                <td>@r.Name</td>
+                <td>@r.Description</td>
+                <td>@r.Location</td>
+                <td>@r.Type</td>
+                <td><a asp-page="./Detail" asp-route-RestaurantId="@r.Id" >Show</a></td>
+                <td><a asp-page="./Edit" asp-route-RestaurantId="@r.Id" >Edit</a></td>
+                <td><a asp-page="./Delete" asp-route-RestaurantId="@r.Id" >Delete</a></td>
+            </tr>
+    }
+ </table>
+ <!--
+
+     <div class="container">
+      <div class="row">
+         @foreach (var r in Model.Restaurants){
+
+             <partial name="Card" model="@r"></partial>
+         }
+      </div>-->
+</div>
+ </center>

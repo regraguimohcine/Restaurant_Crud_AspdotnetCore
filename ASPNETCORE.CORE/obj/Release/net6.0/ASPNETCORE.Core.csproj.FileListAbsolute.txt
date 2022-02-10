@@ -1,0 +1,12 @@
+C:\Users\MOHCINE\source\repos\ASPNETCore\ASPNETCORE.CORE\bin\Release\net6.0\ASPNETCORE.Core.deps.json
+C:\Users\MOHCINE\source\repos\ASPNETCore\ASPNETCORE.CORE\bin\Release\net6.0\ASPNETCORE.Core.dll
+C:\Users\MOHCINE\source\repos\ASPNETCore\ASPNETCORE.CORE\bin\Release\net6.0\ref\ASPNETCORE.Core.dll
+C:\Users\MOHCINE\source\repos\ASPNETCore\ASPNETCORE.CORE\bin\Release\net6.0\ASPNETCORE.Core.pdb
+C:\Users\MOHCINE\source\repos\ASPNETCore\ASPNETCORE.CORE\obj\Release\net6.0\ASPNETCORE.Core.csproj.AssemblyReference.cache
+C:\Users\MOHCINE\source\repos\ASPNETCore\ASPNETCORE.CORE\obj\Release\net6.0\ASPNETCORE.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOHCINE\source\repos\ASPNETCore\ASPNETCORE.CORE\obj\Release\net6.0\ASPNETCORE.Core.AssemblyInfoInputs.cache
+C:\Users\MOHCINE\source\repos\ASPNETCore\ASPNETCORE.CORE\obj\Release\net6.0\ASPNETCORE.Core.AssemblyInfo.cs
+C:\Users\MOHCINE\source\repos\ASPNETCore\ASPNETCORE.CORE\obj\Release\net6.0\ASPNETCORE.Core.csproj.CoreCompileInputs.cache
+C:\Users\MOHCINE\source\repos\ASPNETCore\ASPNETCORE.CORE\obj\Release\net6.0\ASPNETCORE.Core.dll
+C:\Users\MOHCINE\source\repos\ASPNETCore\ASPNETCORE.CORE\obj\Release\net6.0\ref\ASPNETCORE.Core.dll
+C:\Users\MOHCINE\source\repos\ASPNETCore\ASPNETCORE.CORE\obj\Release\net6.0\ASPNETCORE.Core.pdb

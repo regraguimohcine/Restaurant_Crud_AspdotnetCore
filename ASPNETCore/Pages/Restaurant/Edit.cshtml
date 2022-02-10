@@ -1,0 +1,34 @@
+﻿@page "{RestaurantId:int?}"
+@model ASPNETCore.Pages.Restaurant.EditModel
+@{
+}
+    <h1>Edit @Model.restaurant.Name</h1>
+
+    <Form method="post">
+        <div class="Form-group">
+            <input id="Id" asp-for="restaurant.Id" class="form-control" name="Id" type="hidden"/>
+        </div>
+
+        <div class="Form-group">
+            <label for="Name">Name</label>
+            <input id="Name" asp-for="restaurant.Name" class="form-control" name="Name"/>
+            <span class="text-danger" asp-validation-for="restaurant.Name"></span>
+        </div>
+        <div class="Form-group">
+            <label for="Description">Description</label>
+            <input id="Description" asp-for="restaurant.Description" class="form-control" name="Description"/>
+            <span class="text-danger" asp-validation-for="restaurant.Description"></span>
+
+        </div>
+        <div class="Form-group">
+            <label for="Type">Location</label>
+            <input id="Type" asp-for="restaurant.Location" class="form-control" name="Location"/>
+            <span class="text-danger" asp-validation-for="restaurant.Location"></span>
+        </div>
+        <div class="Form-group">
+            <label for="Type">Restaurant Type </label>
+            <select id="Type" class="form-select" asp-for="restaurant.Type" asp-items="Model.SelectedType"></select>
+            <span class="text-danger" asp-validation-for="restaurant.Type"></span>
+        </div>
+        <button type="submit" class="btn btn-primary my-2 btn-block" >Save</button>
+    </Form>

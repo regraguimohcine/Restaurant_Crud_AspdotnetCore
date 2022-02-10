@@ -1,0 +1,96 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ASPNETCore
+build_property.RootNamespace = ASPNETCore
+build_property.ProjectDir = C:\Users\MOHCINE\source\repos\ASPNETCore\ASPNETCore\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\MOHCINE\source\repos\ASPNETCore\ASPNETCore
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/MOHCINE/source/repos/ASPNETCore/ASPNETCore/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MOHCINE/source/repos/ASPNETCore/ASPNETCore/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MOHCINE/source/repos/ASPNETCore/ASPNETCore/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MOHCINE/source/repos/ASPNETCore/ASPNETCore/Pages/R2/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUjJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MOHCINE/source/repos/ASPNETCore/ASPNETCore/Pages/R2/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUjJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MOHCINE/source/repos/ASPNETCore/ASPNETCore/Pages/R2/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUjJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MOHCINE/source/repos/ASPNETCore/ASPNETCore/Pages/R2/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUjJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MOHCINE/source/repos/ASPNETCore/ASPNETCore/Pages/R2/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUjJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MOHCINE/source/repos/ASPNETCore/ASPNETCore/Pages/Restaurant/Card.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzdGF1cmFudFxDYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MOHCINE/source/repos/ASPNETCore/ASPNETCore/Pages/Restaurant/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzdGF1cmFudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MOHCINE/source/repos/ASPNETCore/ASPNETCore/Pages/Restaurant/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzdGF1cmFudFxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MOHCINE/source/repos/ASPNETCore/ASPNETCore/Pages/Restaurant/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzdGF1cmFudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MOHCINE/source/repos/ASPNETCore/ASPNETCore/Pages/Restaurant/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzdGF1cmFudFxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MOHCINE/source/repos/ASPNETCore/ASPNETCore/Pages/Restaurant/NotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzdGF1cmFudFxOb3RGb3VuZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MOHCINE/source/repos/ASPNETCore/ASPNETCore/Pages/Restaurant/RestaurantClient.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzdGF1cmFudFxSZXN0YXVyYW50Q2xpZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MOHCINE/source/repos/ASPNETCore/ASPNETCore/Pages/Shared/Components/RestaurantComponents/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXENvbXBvbmVudHNcUmVzdGF1cmFudENvbXBvbmVudHNcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MOHCINE/source/repos/ASPNETCore/ASPNETCore/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MOHCINE/source/repos/ASPNETCore/ASPNETCore/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MOHCINE/source/repos/ASPNETCore/ASPNETCore/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MOHCINE/source/repos/ASPNETCore/ASPNETCore/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-vkg1ux5qlj

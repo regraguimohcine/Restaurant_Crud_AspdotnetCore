@@ -1,0 +1,12 @@
+﻿@page "{RestaurantId:int}"
+@model ASPNETCore.Pages.Restaurant.DetailModel
+@{
+}
+<h1>@Model.Restaurant.Id</h1>
+<h1>@Model.Restaurant.Name</h1>
+<h1>@Model.Restaurant.Description</h1>
+<h1>@Model.Restaurant.Location</h1>
+<h1>@Model.Restaurant.Type</h1> 
+<h1>
+    <a class="primary" asp-page="./List">All Restaurant</a>
+</h1> 
